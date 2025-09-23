@@ -1,15 +1,19 @@
 # Task Tracker 📝  
-A simple, minimalistic task tracker built with **React**.  
+Task Tracker v2 – a modern, minimalistic task management application built with React.
 
-This is **version 2** of the project – originally built with vanilla JavaScript, now refactored into React.  
-In this version, additional features were added:  
-- 📅 due date for tasks  
-- 🔼 task priority  
-- ↕️ filtering & sorting options  
-- 🧹 ability to clear all tasks  
+This is the second iteration of the project, fully refactored from vanilla JavaScript into React, introducing enhanced functionality and a more structured codebase. Key features in this version include:
 
-The project allows you to create tasks, mark them as completed, delete them, sort them, and clear all – all in a clean and responsive interface.  
-Tasks are stored in **localStorage**, so they stay after you reload the page.  
+📅 Due Dates: Assign deadlines to tasks for better time management
+
+🔼 Task Priority: Set priorities to organize your workload
+
+↕️ Filtering & Sorting: Quickly find and order tasks based on status, date, or priority
+
+🧹 Clear All Tasks: Remove all tasks at once for a fresh start
+
+The app allows users to create, complete, delete, and organize tasks within a clean and responsive interface. Tasks are persistently stored in localStorage, ensuring data remains even after page reloads.
+
+Built for efficiency and simplicity, Task Tracker v2 helps you stay organized and on top of your daily tasks.
 
 ---
 
